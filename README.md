@@ -1,4 +1,4 @@
-# Google Old Version
+- # Google Old Version
 
 Google 1996 yılında kuruldu ve ilk versiyonunu 1998 yılında yayınladı. Google'ın geçmişten günümüze nasıl geliştiğini hiç merak ettiniz mi?
 
