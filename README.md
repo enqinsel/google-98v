@@ -9,7 +9,7 @@ Larry Page ve Sergey Brin başlangıçta nasıl yaptıklarını ve o psikolojiyi
 ---
 Yapmış olduğum Old Version; 
 ![image](https://user-images.githubusercontent.com/76450122/152248181-70b82143-1be5-49b0-85ce-33a0ba33295d.png)
-- [Old Version - Tıkla](https://google-old-version.netlify.app/)
+* [Old Version - Tıkla](https://google-old-version.netlify.app/)
 ---
 
 
